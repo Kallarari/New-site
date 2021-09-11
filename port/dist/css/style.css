@@ -1352,7 +1352,7 @@ main {
 	height: 500px;
 }
 .galeria-dinamica li:nth-child(1) {
-	background: url("https://images.unsplash.com/photo-1465464388793-12ae9c0a6166?dpr=0.75&auto=format&crop=entropy&fit=crop&w=1706&h=1139&q=80")
+	background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/filipeHessQuiro.jpg?raw=true")
 		center/cover;
 }
 .galeria-dinamica li:nth-child(2) {
