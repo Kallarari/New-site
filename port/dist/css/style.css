@@ -1356,11 +1356,11 @@ main {
 		center/cover;
 }
 .galeria-dinamica li:nth-child(2) {
-	background: url("https://images.unsplash.com/photo-1465464388793-12ae9c0a6166?dpr=0.75&auto=format&crop=entropy&fit=crop&w=1706&h=1139&q=80")
+	background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/jvm%20site.jpg?raw=true")
 		center/cover;
 }
 .galeria-dinamica li:nth-child(3) {
-	background: url("https://images.unsplash.com/photo-1466220666686-90bdba318c9a?dpr=0.75&auto=format&crop=entropy&fit=crop&w=1706&h=1122&q=80")
+	background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/mrtech.jpg?raw=true")
 		center/cover;
 }
 .galeria-dinamica li {
