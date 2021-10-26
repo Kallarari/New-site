@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="dist/css/style.css">
 	<script src="dist/js/main.min.js"></script>
 	<script>
+		document.getElementById('item_2').className == "activeItemdinamica"
 		function changeClass(itemId) {
 			if (document.getElementById(itemId).className == "activeItemdinamica") {
 				document.getElementById(itemId).className = "";
@@ -526,7 +527,7 @@
 						<h1><u style="text-decoration-color:#505fff;">Galeria de projetos</u></h1>
 						<ul class="galeria-dinamica">
 							<li id="item_1" onclick="changeClass('item_1')"></li>
-							<li id="item_2" onclick="changeClass('item_2')"></li>
+							<li id="item_2" class="activeItemdinamica" onclick="changeClass('item_2')"></li>
 							<li id="item_3" onclick="changeClass('item_3')"></li>
 						</ul>
 						<div class="mobile-div">
