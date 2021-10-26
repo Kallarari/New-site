@@ -1325,7 +1325,8 @@ main {
   }
   .header-logo-image {
     min-width: 60px;
-    margin-left: 44%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .brand header-brand {
     display: flex;
