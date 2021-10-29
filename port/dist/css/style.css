@@ -1401,23 +1401,23 @@ main {
   margin-top: 5vh;
 }
 .galeria_img li{
-  width: 40%;
-  height: 30vh;
+  width: 33%;
+  height: 27vh;
 }
 .galeria_img li:nth-child(1) {
-  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/cell%2Bcart%C3%A3o.jpg?raw=true")
+  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/cart%C3%A3o%20e%20celular.png?raw=true")
     center/cover;
   float: left;
 }
 .galeria_img li:nth-child(2) {
-  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/pc%20and%20cell%20mokup.jpg?raw=true")
+  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/pc%20e%20celulares.png?raw=true")
     center/cover;
   margin-left: auto;
   margin-right: auto;
 
 }
 .galeria_img li:nth-child(3) {
-  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/cellphone%20mukup.jpg?raw=true")
+  background: url("https://github.com/Kallarari/New-site/blob/main/port/dist/images/celulares.png?raw=true")
     center/cover;
 
   float: right;
