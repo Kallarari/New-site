@@ -1066,44 +1066,45 @@ label {
   display: flex;
   width: 100%;
 }
-.contact-1{
+.contact-1 {
   height: 600px;
 }
-.contact-l{
+.contact-l {
   width: 30%;
   float: left;
 }
-.contact-r{
+.contact-r {
   width: 70%;
   float: right;
   text-align: center;
 }
-.contact-2{
+.contact-2 {
   display: flex;
   justify-content: space-around;
-  margin-top:5vh;
+  margin-top: 5vh;
 }
-#icon-material{
-  font-size:80px;
-  display:flex;
-  text-shadow:1px 1px 2px #000000;
+#icon-material {
+  font-size: 80px;
+  display: flex;
+  text-shadow: 1px 1px 2px #000000;
 }
-#icon-material:hover{
-  text-shadow:3px 3px 6px #000000;
+#icon-material:hover {
+  text-shadow: 3px 3px 6px #000000;
 }
-.contact-3{
+.contact-3 {
   text-align: center;
   display: flex;
   justify-content: space-around;
 }
 @media (max-width: 640px) {
-  .contact-1{
+  .contact-1 {
     height: 155vh;
   }
-  .contact-l,.contact-r{
+  .contact-l,
+  .contact-r {
     width: 100%;
   }
-  .contact-3{
+  .contact-3 {
     text-align: center;
     display: flex;
     justify-content: space-around;
@@ -1373,18 +1374,23 @@ label {
   -webkit-transform: rotateZ(-50deg);
   transform: rotateZ(-50deg);
 }
-.img-contact{
+.img-contact {
   width: 90%;
   padding-top: 7vh;
 }
 @media (max-width: 640px) {
-  .img-contact{
-    width: 90%; 
+  .brand-header-brand {
+    margin-right: auto;
+    margin-left: auto;
   }
-  .header-logo-image{
+  .img-contact {
+    width: 90%;
+  }
+  .header-logo-image {
     margin-right: auto;
     margin-left: auto;
     width: 20vw;
+    float: none;
   }
   .hero-cta {
     max-width: 280px;
@@ -1689,7 +1695,7 @@ main {
   margin-left: 24px;
 }
 @media (min-width: 641px) {
-  .header-logo-image{
+  .header-logo-image {
     width: 7%;
     margin-left: auto;
     margin-right: auto;
